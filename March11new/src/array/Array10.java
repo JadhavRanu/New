@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class Array10 {
 public static void main(String[] args) {
-	
+	int p;
 
 	int arr[]= {12,34,67,89,50,37};
    
